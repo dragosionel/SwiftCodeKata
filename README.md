@@ -16,11 +16,11 @@ The aim of the list is to help us become better programmers by solving small pro
 
 ##### Format a date
 
-Display the current date in the following format: `9:30am / Jyly 20, 20202`
+Display the current date in the following format: `9:30am / July 20, 2020`
 
-##### Extract a data from a string
+##### Extract a date from a string
 
-Convert a date in the format `9:30am / Jyly 20, 20202` for a Date object
+Convert a date in the format `9:30am / July 20, 2020` into a Date object
 
 
 ### Algorithms 
