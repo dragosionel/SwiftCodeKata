@@ -1,6 +1,15 @@
 # SwiftCodeKata
 Learn Swift by solving small problems
 
+## Purpose
+The aim of the list is to help us become better programmers by solving small problems that are either encoutered a lot in the day to day practice or they have some interesting twist
+
+## How to use the list
+- Pick a random problem
+- Open a brand new Swift Playground
+- Solve the problem without using the Internet or any other documentation (maybe except the IDE autocomplete)
+- If the above is not possible, use any documentation available, but make a note to return and try again in the future
+
 ## Problems to solve
 
 ### Date
