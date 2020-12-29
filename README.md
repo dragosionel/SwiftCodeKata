@@ -18,7 +18,7 @@ The aim of the list is to help us become better programmers by solving small pro
 
 - Extract a date from a string: Convert a date in the format `9:30am / July 20, 2020` into a Date object
 
-### Search algorithm: Find more here: https://github.com/raywenderlich/swift-algorithm-club
+### Search algorithm: Find more [here](https://github.com/raywenderlich/swift-algorithm-club) 
 
 - Linear Search. Find an element in an array.
 
