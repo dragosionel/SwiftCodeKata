@@ -20,7 +20,7 @@ The aim of the list is to help us become better programmers by solving small pro
 
 ### Search algorithm: Find more [here](https://github.com/raywenderlich/swift-algorithm-club) 
 
-- Linear Search. Find an element in an array.
+- [Linear Search](search/LinearSearch.playground). Find an element in an array.
 
 - Binary Search. Quickly find elements in a sorted array.
 
