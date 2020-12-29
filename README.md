@@ -14,40 +14,31 @@ The aim of the list is to help us become better programmers by solving small pro
 
 ### Date
 
-**Format a date**
+- Format a date: Display the current date in the following format: `9:30am / July 20, 2020`
 
-Display the current date in the following format: `9:30am / July 20, 2020`
+- Extract a date from a string: Convert a date in the format `9:30am / July 20, 2020` into a Date object
 
-**Extract a date from a string**
+### Search algorithm: Find more here: https://github.com/raywenderlich/swift-algorithm-club
 
-Convert a date in the format `9:30am / July 20, 2020` into a Date object
+- Linear Search. Find an element in an array.
 
+- Binary Search. Quickly find elements in a sorted array.
 
-### Algorithms 
-Find more here: https://github.com/raywenderlich/swift-algorithm-club
+- Count Occurrences. Count how often a value appears in an array.
 
-#### Search algorithm
+- Select Minimum / Maximum. Find the minimum/maximum value in an array.
 
-##### Linear Search. Find an element in an array.
+### Sort algorithm
 
-##### Binary Search. Quickly find elements in a sorted array.
+- Implement Merge Sort
 
-##### Count Occurrences. Count how often a value appears in an array.
+- Implement Bubble Sort
 
-##### Select Minimum / Maximum. Find the minimum/maximum value in an array.
-
-
-#### Sort algorithm
-
-##### Implement Merge Sort
-
-##### Implement Bubble Sort
-
-##### Implement Quick Sort
+- Implement Quick Sort
 
 
 ### Data Structures
 
-##### Implement a stack
+- Implement a stack
 
-##### Implement a queue
+- Implement a queue
