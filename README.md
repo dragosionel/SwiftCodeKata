@@ -14,7 +14,7 @@ The aim of the list is to help us become better programmers by solving small pro
 
 ### Date
 
-- [Format a date](date/extract-date): Display the current date in the following format: `9:30am / July 20, 2020`
+- [Format a date](date/extract-date): Display the current date in the following format: `9:30am / July 20, 2020`. (note it is `am` and not `AM`)
 
 - [Extract a date from a string](date/format-date): Convert a date in the format `9:30am / July 20, 2020` into a Date object
 
