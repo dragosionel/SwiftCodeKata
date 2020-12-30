@@ -43,31 +43,52 @@ The aim of the list is to help us become better programmers by solving small pro
 
 - Implement a queue
 
-### Misc (unsorted list)
+### Core Data
+
+Create a sample database that and
+
+- add entities that have optional and mandatory attributes
+
+- add entities that have one-to-one and one-to-many relationships
+
+- save and retrieve an object of type User (name, age, address)
+
+### [Great Central Dispatch](https://www.raywenderlich.com/5370-grand-central-dispatch-tutorial-for-swift-4-part-1-2)
+
+- Dispatch a activity on background and then dispatch it on foreground
+
+- Make a UI change after a delay
+
+### Xcode
+
+- Enable bad quality internet for the Xcode simulator
+
+### Encoding/decoding data
 
 - Code and decode an object that has different variable names than the JSON
 
-Example JSON: 
-{
+    Example JSON: 
+    {
 	name: “John”,
 	address: {
 		address_street: “Yonge”,
 		address_number: 4,
 		address_city: “Toronto”
 	}
-}
+    }
 
-v1 Use two objects User (name, address) and Address(street, number, city)
+    v1 Use two objects User (name, address) and Address(street, number, city)
 
-v2 Use one object User (name, street, number, city)
+    v2 Use one object User (name, street, number, city)
+
+
+### Misc (unsorted list)
+
 
 - Create a collection view to display information about users. Display them two on each row
 
 - Create code that return a Result that can contain a string or an error
 
-- Create a sample database and save and retrieve an object of type User (name, age, address)
 
-- Dispatch a activity on background and then dispatch it on foreground
 
-- Enable bad quality internet for the Xcode simulator
 
