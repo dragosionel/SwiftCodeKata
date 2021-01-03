@@ -20,9 +20,9 @@ The aim of the list is to help us become better programmers by solving small pro
 
 ### Search algorithm: Find more [here](https://github.com/raywenderlich/swift-algorithm-club) 
 
-- [Linear Search](search/LinearSearch.playground). Find an element in an array.
-
-- Binary Search. Quickly find elements in a sorted array.
+- Linear Search. Find an element in an array. 
+ 
+- Binary Search. Quickly find elements in a sorted array. [Solution](search/BinarySearch.playground)
 
 - Count Occurrences. Count how often a value appears in an array.
 
