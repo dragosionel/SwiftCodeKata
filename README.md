@@ -8,19 +8,19 @@ The aim of the list is to help us become better programmers by solving small pro
 - Pick a random problem
 - Open a brand new Swift Playground
 - Solve the problem without using the Internet or any other documentation (maybe except the IDE autocomplete)
-- If the above is not possible, use any documentation available, but make a note to return and try again in the future
+- If the above is not possible, use any documentation available (including peeking at the solution, if any), but make a note to return and try again in the future
 
 ## Problems to solve
 
 ### Date
 
-- [Format a date](date/extract-date): Display the current date in the following format: `9:30am / July 20, 2020`. (note it is `am` and not `AM`)
+- Format a date: Display the current date in the following format: `9:30am / July 20, 2020`. (note it is `am` and not `AM`). [Solution](date/extract-date)
 
-- [Extract a date from a string](date/format-date): Convert a date in the format `9:30am / July 20, 2020` into a Date object
+- Extract a date from a string: Convert a date in the format `9:30am / July 20, 2020` into a Date object. [Solution](date/format-date)
 
 ### Search algorithm: Find more [here](https://github.com/raywenderlich/swift-algorithm-club) 
 
-- Linear Search. Find an element in an array. 
+- Linear Search. Find an element in an array. [Solution](search/LinearSearch.playground)
  
 - Binary Search. Quickly find elements in a sorted array. [Solution](search/BinarySearch.playground)
 
