@@ -47,11 +47,11 @@ The aim of the list is to help us become better programmers by solving small pro
 
 Create a sample database that and
 
-- add entities that have optional and mandatory attributes
+- add entities that have optional and mandatory attributes. [Solution](coredata/CoreDataOptionalMandatory/)
 
-- add entities that have one-to-one and one-to-many relationships
+- add entities that have one-to-one and one-to-many relationships [Solution](coredata/CoreDataRelationships/)
 
-- save and retrieve an object of type User (name, age, address)
+- save and retrieve an object of type User (name, age) [Solution](coredata/CoreDataSaveRetrieve/)
 
 ### [Great Central Dispatch](https://www.raywenderlich.com/5370-grand-central-dispatch-tutorial-for-swift-4-part-1-2)
 
