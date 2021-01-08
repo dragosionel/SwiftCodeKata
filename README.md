@@ -68,7 +68,8 @@ Create a sample database that and
 
 ### Encoding/decoding data
 
-- Code and decode an object to a from a JSON file. [Solution](encoding/EncodingPlayground.playground)
+- Encode and decode an object to a from a JSON file. [Solution](encoding/EncodingPlayground.playground)
+
     Example JSON: 
     {
 	name: “John”,
@@ -76,7 +77,7 @@ Create a sample database that and
     }
 
 
-- Code and decode an object that has different variable names than the JSON
+- Encode and decode an object that has different variable names than the JSON
 
     Example JSON: 
     {
