@@ -5,11 +5,11 @@ Learn Swift by solving small problems
 The aim of the list is to help us become better programmers by solving small problems that are either encoutered a lot in the day to day practice or they have some interesting twist
 
 ## Stats
-Problems: 26, Solutions: 7
+Problems: 26, Solutions: 8
 
 ## How to use the list
 - Pick a random problem
-- Open a brand new Swift Playground
+- Open a brand new Swift Playground or Xcode projected, dpending on the problem
 - Solve the problem without using the Internet or any other documentation (maybe except the IDE autocomplete)
 - If the above is not possible, use any documentation available (including peeking at the solution, if any), but make a note to return and try again in the future
 
