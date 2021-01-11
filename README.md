@@ -5,7 +5,7 @@ Learn Swift by solving small problems
 The aim of the list is to help us become better programmers by solving small problems that are either encoutered a lot in the day to day practice or they have some interesting twist
 
 ## Stats
-Problems: 26, Solutions: 7
+Problems: 30, Solutions: 7
 
 ## How to use the list
 - Pick a random problem
@@ -15,11 +15,23 @@ Problems: 26, Solutions: 7
 
 ## Problems to solve
 
+### Numbers
+
+- Pick a random number
+
+- For a number find the square root, power, round, round up, round down, round with 2 decimals, [Bankers Rounding](https://wiki.c2.com/?BankersRounding). [Solutions](numbers/NumbersPlayground.playground)
+
+- For two numbers, find the minumum, average (be sure the result is the same type as the input, for example for 1.0 and 2.0, result is 1.5, for 1 and 2, result is 1), LCM (Least Common Multiple), GCM (Greatest Common Factor)
+
+- For an array of numbers, find the minimum, maximum, average, median
+
+
 ### Date
 
 - Format a date: Display the current date in the following format: `9:30am / July 20, 2020`. (note it is `am` and not `AM`). [Solution](date/extract-date)
 
 - Extract a date from a string: Convert a date in the format `9:30am / July 20, 2020` into a Date object. [Solution](date/format-date)
+
 
 ### Search algorithm: Find more [here](https://github.com/raywenderlich/swift-algorithm-club) 
 
@@ -30,6 +42,7 @@ Problems: 26, Solutions: 7
 - Count Occurrences. Count how often a value appears in an array.
 
 - Select Minimum / Maximum. Find the minimum/maximum value in an array.
+
 
 ### Sort algorithm
 
@@ -46,6 +59,7 @@ Problems: 26, Solutions: 7
 
 - Implement a queue
 
+
 ### Core Data
 
 Create a sample database that and
@@ -56,15 +70,18 @@ Create a sample database that and
 
 - save and retrieve an object of type User (name, age) [Solution](coredata/CoreDataSaveRetrieve/)
 
+
 ### [Great Central Dispatch](https://www.raywenderlich.com/5370-grand-central-dispatch-tutorial-for-swift-4-part-1-2)
 
 - Dispatch a activity on background and then dispatch it on foreground
 
 - Make a UI change after a delay
 
+
 ### Xcode
 
 - Enable bad quality internet for the Xcode simulator
+
 
 ### Encoding/decoding data
 
